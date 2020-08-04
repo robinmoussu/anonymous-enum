@@ -1,3 +1,4 @@
+test
 # Summary
 Add the anonymous enum type. Anonymous Enums would have a relation to Enums similar to Tuples relationship to structs.
 
